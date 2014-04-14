@@ -1,0 +1,3 @@
+git add ファイル名拡張子	ファイルを保存
+git commit -m "なにか"		コメント付加
+git status			git内の状況表示
