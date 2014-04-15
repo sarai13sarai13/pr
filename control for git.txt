@@ -1,3 +1,6 @@
 git add ファイル名拡張子	ファイルを保存
 git commit -m "なにか"		コメント付加
+git push -u origin master 	クラウド上に保存
 git status			git内の状況表示
+git rm ファイル名		git管理下のファイルを削除
+git checkout コミット名		戻りたいファイル時に戻れる。
